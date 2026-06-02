@@ -1,0 +1,62 @@
+# Unemployment Analysis with Python
+
+## Oasis Infobyte Internship - Data Analytics
+
+### Author
+
+Rajesh Kumar Sahoo
+
+## Project Overview
+
+This project focuses on analyzing unemployment trends in India using Python. The dataset was cleaned, explored, and visualized to identify patterns in unemployment rates across different regions and time periods.
+
+## Objective
+
+* Analyze unemployment data in India.
+* Identify unemployment trends across states.
+* Visualize employment and unemployment patterns.
+* Generate insights using data analysis techniques.
+
+## Tools and Libraries Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+## Dataset
+
+The dataset contains unemployment statistics of different regions in India, including:
+
+* Region
+* Date
+* Estimated Unemployment Rate (%)
+* Estimated Employed
+* Estimated Labour Participation Rate (%)
+
+## Analysis Performed
+
+* Data Cleaning
+* Missing Value Handling
+* State-wise Unemployment Analysis
+* Monthly Trend Analysis
+* Employment vs Unemployment Analysis
+* Distribution Analysis
+
+## Key Insights
+
+* Unemployment rates vary significantly across different regions.
+* Some states show consistently higher unemployment rates.
+* Employment levels and unemployment rates are closely related.
+* Data visualization helps identify trends effectively.
+
+## Conclusion
+
+The project successfully analyzed unemployment data and generated meaningful insights through data visualization and statistical analysis.
+
+## Author
+
+Rajesh Kumar Sahoo
+Oasis Infobyte Data Analytics Internship
+
