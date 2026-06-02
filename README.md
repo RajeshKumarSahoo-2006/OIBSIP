@@ -1,62 +1,108 @@
-# Unemployment Analysis with Python
+# 🚀 OASIS Infobyte Internship - Data Science Projects
 
-## Oasis Infobyte Internship - Data Analytics
+This repository contains all the projects completed during my **OASIS Infobyte Data Science Internship (OIBSIP)**.
 
-### Author
+---
 
-Rajesh Kumar Sahoo
+## 📌 Project Overview
 
-## Project Overview
+During this internship, I completed 3 real-world Data Science projects involving data analysis, visualization, and machine learning.
 
-This project focuses on analyzing unemployment trends in India using Python. The dataset was cleaned, explored, and visualized to identify patterns in unemployment rates across different regions and time periods.
+---
 
-## Objective
+# 📊 Task 1: Unemployment Analysis
 
-* Analyze unemployment data in India.
-* Identify unemployment trends across states.
-* Visualize employment and unemployment patterns.
-* Generate insights using data analysis techniques.
+## 🎯 Objective:
+To analyze unemployment rate trends and visualize unemployment data.
 
-## Tools and Libraries Used
+## 📌 Key Learnings:
+- Data cleaning and preprocessing
+- Time series analysis
+- Data visualization and insights
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
+## 🛠️ Tools Used:
+- Python 🐍
+- Pandas
+- Matplotlib
+- Seaborn
 
-## Dataset
+---
 
-The dataset contains unemployment statistics of different regions in India, including:
+# 📈 Task 2: Sales Prediction
 
-* Region
-* Date
-* Estimated Unemployment Rate (%)
-* Estimated Employed
-* Estimated Labour Participation Rate (%)
+## 🎯 Objective:
+To predict future sales using regression techniques based on historical data.
 
-## Analysis Performed
+## 📌 Key Learnings:
+- Data preprocessing
+- Feature selection
+- Regression modeling
+- Model evaluation
 
-* Data Cleaning
-* Missing Value Handling
-* State-wise Unemployment Analysis
-* Monthly Trend Analysis
-* Employment vs Unemployment Analysis
-* Distribution Analysis
+## 🛠️ Tools Used:
+- Python 🐍
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
 
-## Key Insights
+---
 
-* Unemployment rates vary significantly across different regions.
-* Some states show consistently higher unemployment rates.
-* Employment levels and unemployment rates are closely related.
-* Data visualization helps identify trends effectively.
+# 🚗 Task 3: Car Price Prediction
 
-## Conclusion
+## 🎯 Objective:
+To predict used car selling prices using Machine Learning (Linear Regression).
 
-The project successfully analyzed unemployment data and generated meaningful insights through data visualization and statistical analysis.
+## 📌 Key Learnings:
+- Handling categorical variables
+- Label encoding
+- Regression modeling
+- Model evaluation (MAE, MSE, R² Score)
 
-## Author
+## 🛠️ Tools Used:
+- Python 🐍
+- Pandas
+- NumPy
+- Scikit-learn
+- Seaborn
+- Matplotlib
 
-Rajesh Kumar Sahoo
-Oasis Infobyte Data Analytics Internship
+---
 
+## 🛠️ Technologies Used (Overall)
+
+- Python 🐍
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+---
+
+## 📁 Repository Structure
+OIBSIP/
+│
+├── Task-1 Unemployment Analysis/
+├── Task-2 Sales Prediction/
+├── Task-3 Car Price Prediction/
+└── README.md
+
+---
+
+## 🎯 Outcome
+
+Successfully completed all internship tasks and gained hands-on experience in:
+
+- Data Analysis
+- Data Visualization
+- Machine Learning
+- Real-world dataset handling
+- Model building and evaluation
+
+---
+
+## 👨‍💻 Author
+
+**Rajesh Kumar Sahoo**  
+OASIS Infobyte Internship Participant
